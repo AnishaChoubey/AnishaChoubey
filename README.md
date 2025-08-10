@@ -81,6 +81,8 @@
    Service Reliability: Improves tracking of uptime and complaint resolution times, leading to higher customer satisfaction.
 
 8. Screenshot
+   
+   Dashboard_Preview:  [https://github.com/AnishaChoubey/AnishaChoubey/blob/main/Customer_dashboard.png](url)
 <!--
 **AnishaChoubey/AnishaChoubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
